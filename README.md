@@ -14,7 +14,6 @@ This project is a machine learning model that classifies news articles as **real
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/your-notebook-name.ipynb)
 
-> Replace `your-username`, `your-repo-name`, and `your-notebook-name.ipynb` with your actual GitHub details.
 
 ##  Dataset
 
